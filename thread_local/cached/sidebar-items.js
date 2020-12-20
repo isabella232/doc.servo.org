@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CachedIntoIter","An iterator that moves out of a `CachedThreadLocal`."],["CachedIterMut","Mutable iterator over the contents of a `CachedThreadLocal`."],["CachedThreadLocal","Wrapper around `ThreadLocal` which adds a fast path for a single thread."]]});

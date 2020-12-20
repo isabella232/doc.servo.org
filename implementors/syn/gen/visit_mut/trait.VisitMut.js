@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["pin_project_internal"] = [{"text":"impl&lt;'_&gt; <a class=\"trait\" href=\"syn/gen/visit_mut/trait.VisitMut.html\" title=\"trait syn::gen::visit_mut::VisitMut\">VisitMut</a> for <a class=\"struct\" href=\"pin_project_internal/utils/struct.ReplaceReceiver.html\" title=\"struct pin_project_internal::utils::ReplaceReceiver\">ReplaceReceiver</a>&lt;'_&gt;","synthetic":false,"types":["pin_project_internal::utils::ReplaceReceiver"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

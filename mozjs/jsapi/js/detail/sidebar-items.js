@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["IdMatchesAtom",""],["IdMatchesAtom1",""],["IsWindowSlow",""],["SetValueInProxy",""],["ToWindowProxyIfWindowSlow",""]],"struct":[["DefineComparisonOps",""],["ProxyDataLayout",""],["ProxyReservedSlots",""],["ProxyValueArray",""],["PtrBarrierMethodsBase",""],["TypeIsGCThing",""],["UniqueSelector",""]],"type":[["UniqueSelector_SingleObject",""]]});

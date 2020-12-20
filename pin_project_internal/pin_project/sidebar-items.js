@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["PIN","The annotation for pinned type."]],"fn":[["attribute",""],["derive",""]],"mod":[["attribute",""],["derive",""]]});

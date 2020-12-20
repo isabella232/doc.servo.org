@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["DUPLICATE_PIN",""]],"enum":[["ProjReplace",""],["UnpinImpl",""]],"fn":[["parse_derive",""],["validate_enum",""],["validate_struct",""]],"struct":[["Args",""],["Context",""],["OriginalType",""],["ProjectedFields",""],["ProjectedType",""],["ProjectedVariants",""]]});

@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["serde_json"] = [{"text":"impl&lt;'a, 'b&gt; <a class=\"trait\" href=\"serde_json/io/trait.Write.html\" title=\"trait serde_json::io::Write\">Write</a> for <a class=\"struct\" href=\"serde_json/value/struct.WriterFormatter.html\" title=\"struct serde_json::value::WriterFormatter\">WriterFormatter</a>&lt;'a, 'b&gt;","synthetic":false,"types":["serde_json::value::WriterFormatter"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
